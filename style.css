@@ -1,0 +1,21 @@
+body { 
+    background: linear-gradient(135deg, #0b8793, #360033 );
+}
+h1 {
+    background-color: #0b8793;
+}
+#falsecr {
+position: fixed;
+bottom: 0;
+text-align: center;
+background-color: #360033;
+color:aqua;
+width:100%;
+}
+
+canvas {
+background-color: black;
+border-radius: 25px;
+border-style: dotted;
+border-color: darkslategrey;
+}
